@@ -29,8 +29,8 @@ public class practiceVerifyCode {
         System.out.println("The verify code is: "+getCode(7, numArr, letterTable));
 
         // Output1: The verify code is: Q05620z
-        // Output1: The verify code is: WUO5xw3
-        // Output1: The verify code is: 59tZ409
+        // Output2: The verify code is: WUO5xw3
+        // Output3: The verify code is: 59tZ409
 
     }
 
